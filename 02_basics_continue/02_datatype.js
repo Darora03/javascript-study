@@ -18,4 +18,4 @@ let state=null;
 
 console.log("age::"+age)
 console.log("type of ::"+typeof age);
-console.log(typeof state)
+console.log(typeof state);
