@@ -26,4 +26,4 @@
 
  let str1="Dev"
  let str2= "Arora"
- console.log(str1 +" "+str2);
+ console.log(str1 +" "+str2)

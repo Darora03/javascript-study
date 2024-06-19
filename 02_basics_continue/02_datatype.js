@@ -16,6 +16,6 @@ let state=null;
 //undefined
 //
 
-console.log("age::"+age)
-console.log("type of ::"+typeof age);
+console.log("age::"+age);
+console.log("type of ::"+typeof age)
 console.log(typeof state);

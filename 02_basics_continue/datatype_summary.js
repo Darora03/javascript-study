@@ -52,6 +52,6 @@ let myFunction= function(){
     console.log("Hello World");
 }
 //typeof
-console.log(typeof myFunction)
+console.log(typeof myFunction);
 
 
