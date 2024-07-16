@@ -4,6 +4,7 @@
 //truthy value
 //true,"0",'false'," ",[],{},function(){}
 
+
 //const userEmail="d@devarora.ai";condition 1=when value is true 
 //const userEmail="";empty string it will gave falsy value
 //const userEmail=[];empty array gives truthy value
@@ -45,3 +46,6 @@ let val1;
 val1 =undefined??20??10
 console.log(val1);
 */
+//terneary opeartor
+
+//condition?true:false;
