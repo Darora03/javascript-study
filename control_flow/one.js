@@ -18,7 +18,7 @@ if(balance<500){
 const userLoggedIn= true;
 const debitCard =true;
 const loggedInFromGoogle =true;
-const loggedInFromEmail= true;
+const loggedInFromEmail= true
 
 if(loggedInFromGoogle || loggedInFromEmail){
     console.log("User successfully logged in ");

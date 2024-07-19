@@ -48,4 +48,4 @@ console.log(val1);
 */
 //terneary opeartor
 
-//condition?true:false;
+//condition?true:false
