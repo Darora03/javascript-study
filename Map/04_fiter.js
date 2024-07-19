@@ -33,4 +33,4 @@ myNums.forEach((num) =>{
     }//closing if
 
 })//closing for each
-console.log(newNums)
+console.log(newNums);

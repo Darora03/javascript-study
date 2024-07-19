@@ -5,4 +5,4 @@
                     .filter((num) => {
                        return num>=40
                     });
- console.log(newNum);
+ console.log(newNum)

@@ -39,5 +39,5 @@ coding.forEach((item,index,arr) =>{
    ]
    myCoding.forEach((item) =>{
     
-    console.log(item.languageFileName)
+    console.log(item.languageFileName);
    });

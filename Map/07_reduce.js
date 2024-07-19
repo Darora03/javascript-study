@@ -34,4 +34,4 @@
  ]//closing array
 
  const cartTotal= shoppingCourses.reduce((acc,item) =>acc+item.price,0);
- console.log(cartTotal);
+ console.log(cartTotal)
